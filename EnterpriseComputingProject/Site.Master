@@ -121,13 +121,13 @@
                        
                        
                       
-                            
+                       <%--     
                          <p>
                             Let us help you start your search for cheap airfare and travel deals. 
                             Whether it’s a romantic weekend getaway, family vacation, bucket-list trip to your dream destination,
                             or a business trip with a side of fun, we have you covered. Affordable domestic and international flights
                             are what we do best.
-                        </p>
+                        </p>--%>
                     </div>
                     <div class="col-xs-4 col-md-4">
                        <h3 class="logo-text">Links</h3>
